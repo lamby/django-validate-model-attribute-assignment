@@ -6,7 +6,7 @@ setup(
     name='django-validate-model-attribute-assignment',
 
     url="https://chris-lamb.co.uk/projects/django-validate-model-attribute-assignment",
-    version='1',
+    version='2',
     description="Prevent typos and other errors when assigning attributes to Django model instances",
 
     author="Chris Lamb",
